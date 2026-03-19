@@ -11,7 +11,7 @@ Sejam Bem vindos ao meu Github 💻
 
 ## Formações Profissionais
 
-Cursando Analise e desenvolvimento de sistemas. <br/>
+Formado em Analise e desenvolvimento de sistemas. <br/>
 Cursando Pós-Graduação em linguagens e Paradigmas de Programação. <br/>
 Cursando Pós-Graduação em Desenvolvimento Full-Stack e Cloud Computing. <br/>
 
